@@ -1,21 +1,84 @@
-MIT License
+WeChat Radar Non-Commercial Research License
 
 Copyright (c) 2026 WeChat Radar contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This project is source-available for learning, research, personal evaluation,
+and non-commercial experimentation only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may use, copy, modify, and run this software for:
+
+- personal learning and research;
+- non-commercial security, privacy, and product evaluation;
+- local experiments on data and accounts you are authorized to access;
+- educational demos that do not generate revenue or commercial advantage.
+
+2. Prohibited use
+
+You may not use this software, in whole or in part, for:
+
+- commercial services, paid products, consulting delivery, SaaS, hosted
+  dashboards, paid reports, resale, lead generation, or other revenue-generating
+  activity;
+- monitoring, scraping, profiling, exporting, or analyzing third-party WeChat
+  data without proper authorization;
+- automated WeChat actions, including but not limited to sending messages,
+  adding friends, joining groups, liking, commenting, reading or operating on
+  Moments, modifying profiles, or any other write/social action;
+- evading platform restrictions, bypassing access controls, abusing accounts,
+  violating WeChat/Tencent rules, or interfering with any third-party service;
+- any unlawful, infringing, harassing, surveillance, spam, fraud, or privacy-
+  violating activity.
+
+3. Tencent and WeChat disclaimer
+
+This project is not affiliated with, endorsed by, sponsored by, authorized by,
+or connected to Tencent, WeChat, or wx-cli. WeChat and Tencent trademarks belong
+to their respective owners. This project is an independent research tool.
+
+4. User responsibility
+
+You are solely responsible for:
+
+- confirming that your use complies with applicable laws, platform terms,
+  organizational policies, and group member expectations;
+- protecting accounts, local databases, logs, screenshots, exports, and
+  credentials;
+- obtaining all required permissions before reading, storing, processing, or
+  summarizing chat data;
+- accepting any account, data, compliance, operational, or business risk caused
+  by your use or misuse of the software.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+AVAILABILITY, ACCURACY, SECURITY, OR COMPATIBILITY WITH ANY VERSION OF WECHAT,
+WX-CLI, NODE.JS, OPERATING SYSTEM, OR THIRD-PARTY SERVICE.
+
+The authors do not guarantee that the software will work, remain compatible,
+avoid account restrictions, prevent data loss, produce correct summaries, or
+comply with any platform rule or legal requirement.
+
+6. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT
+BE LIABLE FOR ANY CLAIM, DAMAGE, LOSS, COST, ACCOUNT RESTRICTION, DATA LEAK,
+DATA LOSS, BUSINESS INTERRUPTION, LOST PROFIT, LEGAL DISPUTE, PLATFORM
+ENFORCEMENT, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR ITS
+USE, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE.
+
+7. No legal advice
+
+Documentation, comments, examples, and generated outputs are for general
+information only and are not legal, compliance, security, or professional
+advice. Consult qualified counsel or compliance professionals before using the
+software in sensitive environments.
+
+8. Termination
+
+Any use outside the permitted scope terminates your rights under this license
+immediately. You must stop using the software and delete any copies if you do
+not agree to these terms.

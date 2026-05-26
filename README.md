@@ -7,11 +7,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/joeseesun/wechat-radar?style=social)](https://github.com/joeseesun/wechat-radar/network/members)
 [![Issues](https://img.shields.io/github/issues/joeseesun/wechat-radar)](https://github.com/joeseesun/wechat-radar/issues)
 [![Last commit](https://img.shields.io/github/last-commit/joeseesun/wechat-radar)](https://github.com/joeseesun/wechat-radar/commits/main)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Non-commercial research](https://img.shields.io/badge/License-Non--commercial%20research-orange.svg)](LICENSE)
 
 ![WeChat Radar product preview](docs/assets/product-preview.svg)
 
 **[中文](#中文) | [English](#english)**
+
+> 重要：本项目仅供学习研究和个人非商业实验使用，禁止用于商业盈利。请先阅读 [免责声明](DISCLAIMER.md) 和 [许可证](LICENSE)。
 
 ---
 
@@ -115,6 +117,16 @@ WeChat Radar 默认只在本机读写数据：
 - 请确认你的使用方式符合微信客户端规则、当地法律、群成员隐私预期和你所在组织的合规要求。
 - 不要把包含真实聊天内容的数据库或截图上传到公开仓库。
 
+## 免责声明与禁止事项
+
+本项目仅供学习研究、个人评估和非商业实验使用。禁止用于商业盈利，包括但不限于 SaaS、托管服务、付费报表、咨询交付、商业监控、线索挖掘、数据售卖、企业内部生产系统或任何直接/间接商业收益场景。
+
+本项目与腾讯、微信、wx-cli 均无官方关联，未获得腾讯或微信授权、认可、赞助或背书。微信、WeChat、腾讯、Tencent 等名称和商标归其权利人所有。
+
+用户需要自行承担安装、配置、运行、修改、部署、数据处理和传播行为的全部责任。因使用或误用本项目导致的账号限制、数据丢失、隐私泄露、商业损失、法律纠纷、平台处罚、服务中断、误判摘要或其它后果，项目作者和贡献者不承担责任。
+
+完整条款见 [DISCLAIMER.md](DISCLAIMER.md) 和 [LICENSE](LICENSE)。
+
 ## 项目结构
 
 ```text
@@ -201,4 +213,4 @@ Safety guidance:
 
 ## License
 
-MIT
+Non-commercial research use only. See [LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md).
